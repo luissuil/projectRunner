@@ -1,0 +1,19 @@
+{
+  "name": "projectrunner",
+  "version": "0.1.0",
+  "description": "ProjectRunner es una herramienta de Node.js para crear proyectos y realizar git init si está instalado. Además, puede abrir el proyecto en tu IDE o editor de código favorito",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luissuil/projectRunner.git"
+  },
+  "author": "Luis Fernando Perez Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luissuil/projectRunner/issues"
+  },
+  "homepage": "https://github.com/luissuil/projectRunner#readme"
+}
